@@ -1,0 +1,315 @@
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ApplicationInsights.config
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Cendeisss.dll.config
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Cendeisss.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Cendeisss.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_AccesoDatos.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_Entidades.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_LogicaNegocio.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.Web.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ApplicationInsights.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.SqlServer.Types.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_AccesoDatos.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_Entidades.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\CP_LogicaNegocio.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.Web.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.ApplicationInsights.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\obj\Release\Cendeisss.csprojAssemblyReference.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\obj\Release\Cendeisss.csproj.CoreCompileInputs.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\obj\Release\Cendeisss.csproj.CopyComplete
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\obj\Release\Cendeisss.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\Cendeisss\obj\Release\Cendeisss.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ApplicationInsights.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\SqlServerTypes\x64\msvcr120.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\SqlServerTypes\x86\msvcr120.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Cendeisss.dll.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Cendeisss.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Cendeisss.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csc.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csc.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csc.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csi.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csi.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\csi.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.Managed.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.AppContext.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Collections.Immutable.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Console.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Globalization.Calendars.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.IO.Compression.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.IO.FileSystem.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Net.Http.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Net.Sockets.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Reflection.Metadata.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.ValueTuple.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Xml.XmlDocument.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Xml.XPath.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\vbc.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\vbc.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\vbc.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\VBCSCompiler.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\roslyn\VBCSCompiler.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_LogicaNegocio.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.DependencyCollector.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.Web.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.WindowsServer.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ApplicationInsights.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.Common.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.WebForms.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.SqlServer.Types.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\System.Diagnostics.DiagnosticSource.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\CP_LogicaNegocio.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.DependencyCollector.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.Web.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AI.WindowsServer.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.ApplicationInsights.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\System.Diagnostics.DiagnosticSource.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\obj\Release\Cendeisss.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\obj\Release\Cendeisss.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\obj\Release\Cendeisss.csproj.CopyComplete
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\obj\Release\Cendeisss.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\Cendeisss\obj\Release\Cendeisss.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ApplicationInsights.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\SqlServerTypes\x64\msvcr120.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\SqlServerTypes\x86\msvcr120.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Cendeisss.dll.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Cendeisss.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Cendeisss.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csc.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csc.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csc.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csi.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csi.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\csi.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.Managed.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.AppContext.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Collections.Immutable.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Console.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Globalization.Calendars.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.IO.Compression.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.IO.FileSystem.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Net.Http.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Net.Sockets.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Reflection.Metadata.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.ValueTuple.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Xml.XmlDocument.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Xml.XPath.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\vbc.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\vbc.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\vbc.rsp
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\VBCSCompiler.exe
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\roslyn\VBCSCompiler.exe.config
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_LogicaNegocio.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.Agent.Intercept.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.DependencyCollector.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.Web.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.WindowsServer.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ApplicationInsights.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ReportViewer.Common.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ReportViewer.WebForms.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.SqlServer.Types.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\System.Diagnostics.DiagnosticSource.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\CP_LogicaNegocio.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.DependencyCollector.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.Web.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AI.WindowsServer.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.ApplicationInsights.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\System.Diagnostics.DiagnosticSource.xml
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\obj\Release\Cendeisss.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\obj\Release\Cendeisss.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\obj\Release\Cendeisss.csproj.CopyComplete
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\obj\Release\Cendeisss.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\Cendeisss\obj\Release\Cendeisss.pdb

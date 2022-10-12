@@ -1,0 +1,22 @@
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_LogicaNegocio.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_LogicaNegocio.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_AccesoDatos.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_Entidades.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_AccesoDatos.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_Entidades.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csproj.CopyComplete
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_LogicaNegocio.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_LogicaNegocio.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\bin\Debug\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.csproj.CopyComplete
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_LogicaNegocio\obj\Debug\CP_LogicaNegocio.pdb

@@ -1,0 +1,23 @@
+﻿div.col-xs-2 {
+    min-width: 160px;
+}
+
+/*Etiquetas*/
+hr {
+    margin-top: 10px !important;
+    margin-bottom: 5px !important;
+}
+
+
+.ui-datepicher-calendar{
+    display:none
+       
+}
+
+.datepicker th {
+    font-size: 14px !important;
+}
+
+.datepicker tr {
+    font-size: 14px !important;
+}

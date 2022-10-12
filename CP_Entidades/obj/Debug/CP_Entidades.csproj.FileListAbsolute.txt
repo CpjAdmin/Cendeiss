@@ -1,0 +1,12 @@
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\bin\Debug\CP_Entidades.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\bin\Debug\CP_Entidades.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.csprojAssemblyReference.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\bin\Debug\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\bin\Debug\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_Entidades\obj\Debug\CP_Entidades.pdb

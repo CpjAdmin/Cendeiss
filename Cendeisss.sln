@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cendeisss", "Cendeisss\Cendeisss.csproj", "{C33C27A1-16EB-4885-AEB8-B2A7503DF4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP_AccesoDatos", "CP_AccesoDatos\CP_AccesoDatos.csproj", "{F8A1E042-69F3-4A59-9E92-32088BD45794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP_Entidades", "CP_Entidades\CP_Entidades.csproj", "{234F3938-9C85-46EB-A155-9E2765B9CEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP_LogicaNegocio", "CP_LogicaNegocio\CP_LogicaNegocio.csproj", "{29689DA3-B245-49F1-A994-7E8C478C11C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33C27A1-16EB-4885-AEB8-B2A7503DF4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33C27A1-16EB-4885-AEB8-B2A7503DF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33C27A1-16EB-4885-AEB8-B2A7503DF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33C27A1-16EB-4885-AEB8-B2A7503DF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A1E042-69F3-4A59-9E92-32088BD45794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A1E042-69F3-4A59-9E92-32088BD45794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A1E042-69F3-4A59-9E92-32088BD45794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A1E042-69F3-4A59-9E92-32088BD45794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234F3938-9C85-46EB-A155-9E2765B9CEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234F3938-9C85-46EB-A155-9E2765B9CEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234F3938-9C85-46EB-A155-9E2765B9CEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234F3938-9C85-46EB-A155-9E2765B9CEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29689DA3-B245-49F1-A994-7E8C478C11C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29689DA3-B245-49F1-A994-7E8C478C11C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29689DA3-B245-49F1-A994-7E8C478C11C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29689DA3-B245-49F1-A994-7E8C478C11C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D229AB6-935B-4C8D-B936-6C042A147441}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://proyectoscgr.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Cendeisss\\Cendeisss.csproj
+		SccProjectName1 = Cendeisss
+		SccLocalPath1 = Cendeisss
+		SccProjectUniqueName2 = CP_AccesoDatos\\CP_AccesoDatos.csproj
+		SccProjectName2 = CP_AccesoDatos
+		SccLocalPath2 = CP_AccesoDatos
+		SccProjectUniqueName3 = CP_Entidades\\CP_Entidades.csproj
+		SccProjectName3 = CP_Entidades
+		SccLocalPath3 = CP_Entidades
+		SccProjectUniqueName4 = CP_LogicaNegocio\\CP_LogicaNegocio.csproj
+		SccProjectName4 = CP_LogicaNegocio
+		SccLocalPath4 = CP_LogicaNegocio
+	EndGlobalSection
+EndGlobal

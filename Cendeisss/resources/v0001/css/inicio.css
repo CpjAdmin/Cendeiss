@@ -1,0 +1,9 @@
+﻿
+.content-wrapper {
+    background-color: #fff;
+    z-index: 800;
+    background-image: url(../img/logo_inicio.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 350px;
+}

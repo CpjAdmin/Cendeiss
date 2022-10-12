@@ -1,0 +1,27 @@
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\bin\Release\CP_AccesoDatos.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\bin\Release\CP_AccesoDatos.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\bin\Release\CP_Entidades.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\bin\Release\CP_Entidades.pdb
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csprojAssemblyReference.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CopyComplete
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.dll
+C:\Users\asalazar\Source\Workspaces\Cendeiss\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\bin\Release\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\bin\Release\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\bin\Release\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\bin\Release\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CopyComplete
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\PreProduccion\CP_AccesoDatos\obj\Release\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\bin\Release\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\bin\Release\CP_AccesoDatos.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\bin\Release\CP_Entidades.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\bin\Release\CP_Entidades.pdb
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csprojAssemblyReference.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CoreCompileInputs.cache
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\obj\Release\CP_AccesoDatos.csproj.CopyComplete
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\obj\Release\CP_AccesoDatos.dll
+D:\0 - Cambios y Tareas Core\Cendeisss\Cendeisss_v2.1_Entrega08Jul2019\CENDEISSS_Oficial\CP_AccesoDatos\obj\Release\CP_AccesoDatos.pdb

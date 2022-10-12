@@ -1,0 +1,116 @@
+[
+  {
+    "outputFileName": "resources/components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js",
+    "inputFiles": [
+      "resources/components/bootstrap-datepicker/dist/js/bootstrap-datepicker.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/barra_progreso.min.js",
+    "inputFiles": [
+      "resources/v0001/js/barra_progreso.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/saldos_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/saldos_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/inicio.min.css",
+    "inputFiles": [
+      "resources/v0001/css/inicio.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/descarga_informes.min.css",
+    "inputFiles": [
+      "resources/v0001/css/descarga_informes.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/components/bootstrap/dist/css/bootstrap.min.min.css",
+    "inputFiles": [
+      "resources/components/bootstrap/dist/css/bootstrap.min.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/login_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/login_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/publico_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/publico_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/usuarios_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/usuarios_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/movimientos_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/movimientos_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/descarga_informes_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/descarga_informes_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/login_v1.min.css",
+    "inputFiles": [
+      "resources/v0001/css/login_v1.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/reportes.min.js",
+    "inputFiles": [
+      "resources/v0001/js/reportes.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/mantenimiento_perfil_v1.min.js",
+    "inputFiles": [
+      "resources/v0001/js/mantenimiento_perfil_v1.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/js/principal_v2.min.js",
+    "inputFiles": [
+      "resources/v0001/js/principal_v2.js"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/mantenimiento_perfil_v1.1.min.css",
+    "inputFiles": [
+      "resources/v0001/css/mantenimiento_perfil_v1.1.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/movimientos_v1.1.min.css",
+    "inputFiles": [
+      "resources/v0001/css/movimientos_v1.1.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/principal_v1.1.min.css",
+    "inputFiles": [
+      "resources/v0001/css/principal_v1.1.css"
+    ]
+  },
+  {
+    "outputFileName": "resources/v0001/css/saldos_v1.1.min.css",
+    "inputFiles": [
+      "resources/v0001/css/saldos_v1.1.css"
+    ]
+  }
+]
